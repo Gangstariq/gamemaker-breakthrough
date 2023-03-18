@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"snd_Break","order":1,"path":"sounds/snd_Break/snd_Break.yy",},
+    {"name":"obj_bat","order":1,"path":"objects/obj_bat/obj_bat.yy",},
+    {"name":"spr_brick","order":5,"path":"sprites/spr_brick/spr_brick.yy",},
+    {"name":"obj_ball","order":2,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"spr_ball","order":3,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"spr_bat","order":4,"path":"sprites/spr_bat/spr_bat.yy",},
+    {"name":"snd_Click","order":2,"path":"sounds/snd_Click/snd_Click.yy",},
+  ],
+}
